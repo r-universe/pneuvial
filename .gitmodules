@@ -8,3 +8,8 @@
 	url = https://github.com/pneuvial/adjclust
 	shallow = true
 	registered = true
+[submodule "MANOR"]
+	path = MANOR
+	url = https://github.com/pneuvial/manor
+	shallow = true
+	registered = true
