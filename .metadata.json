@@ -1,9 +1,9 @@
 [
   {
-    "package": "adjclust",
-    "oncran": true
+    "package": "MANOR"
   },
   {
-    "package": "MANOR"
+    "package": "adjclust",
+    "oncran": true
   }
 ]
