@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MANOR"]
-	path = MANOR
-	url = https://github.com/pneuvial/manor
-	shallow = true
-	registered = true
 [submodule "adjclust"]
 	path = adjclust
 	url = https://github.com/pneuvial/adjclust
+	shallow = true
+	registered = true
+[submodule "MANOR"]
+	path = MANOR
+	url = https://github.com/pneuvial/manor
 	shallow = true
 	registered = true
