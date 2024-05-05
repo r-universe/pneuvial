@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MANOR"]
-	path = MANOR
-	url = https://github.com/pneuvial/manor
 [submodule "adjclust"]
 	path = adjclust
 	url = https://github.com/pneuvial/adjclust
